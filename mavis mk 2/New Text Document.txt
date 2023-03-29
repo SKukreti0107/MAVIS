@@ -1,0 +1,17 @@
+features :
+1  google search 
+
+2 wikipedia 
+
+3 youtube videos 
+
+4 weather 
+
+5 alarm
+
+6 google calendar 
+
+7 tasks 
+
+
+
